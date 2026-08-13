@@ -12,7 +12,7 @@
 
 ### About me
 
-Professional pianist (classical and flamenco) transitioning into data science and AI. Piano performance and programming share a common foundation: analytical rigour, pattern recognition, and discipline in complex structures. I hold a Título Superior in Piano Performance (GPA 9/10), a Master's in Advanced Piano Performance with a flamenco specialism from ESMUC (GPA 9/10), and a Master's in Neuromusic (UCAM, 60 ECTS) — genuine domain expertise in audio and music that I bring to technical work where that background actually adds value.
+Professional pianist (classical and flamenco) transitioning into data science and AI. Piano performance and programming share a common foundation: analytical rigour, pattern recognition, and discipline in complex structures. I hold a Título Superior in Piano Performance (GPA 9/10), a Master's in Advanced Artistic Studies in Flamenco — Flamenco Piano from ESMUC (GPA 9.5/10), and a Master's in Neuromusic (UCAM, 60 ECTS, título propio) — genuine domain expertise in audio and music that I bring to technical work where that background actually adds value.
 
 Currently completing the **Data Science Career Accelerator — University of Cambridge Professional and Continuing Education (PACE)**, an intensive, project-based professional certificate (non-credit), alongside strong Python fundamentals from Escuela Musk.
 
